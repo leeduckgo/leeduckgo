@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 李大狗Leeduckgo，面向炫酷编程，区块链方向，上海对外经贸大学区块链技术与应用研究中心副主任。
+
 Leeduckgo,cOoL-oriented Programming,working on blockchain and crypto.
 
 - 中心主页：https://github.com/SUIBE-Blockchain
