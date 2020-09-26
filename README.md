@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 Leeduckgo,cOoL-oriented Programming,working on blockchain and crypto.
 
 - 中心主页：https://github.com/SUIBE-Blockchain
-- 擅长语言：Elixir, Python......
+- 擅长语言：Elixir, Python, Rust
 - 俺的微信：197626581
 - 俺的邮箱📮：leeduckgo@gmail.com
 
