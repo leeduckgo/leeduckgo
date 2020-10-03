@@ -21,8 +21,11 @@ Leeduckgo,cOoL-oriented Programming,working on blockchain and crypto.
 
 - 中心主页：https://github.com/SUIBE-Blockchain
 - 擅长语言：Elixir, Python, Rust
-- 俺的微信：197626581
-- 俺的邮箱📮：leeduckgo@gmail.com
+- 微信：197626581
+- 邮箱📮：leeduckgo@gmail.com
 
+Repos：
 
-
+- Rust: https://github.com/SUIBE-Blockchain/WeDPR-Lab-Core-Web-Version
+- Python: https://github.com/SUIBE-Blockchain/FISCO_BCOS_Toolbox
+- Blockchain: https://github.com/leeduckgo/bitcoin_elementary_course_based_on_jupyterlab
