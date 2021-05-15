@@ -26,7 +26,7 @@ Leeduckgo,cOoL-oriented Programming,working on blockchain and crypto.
 
 Repos：
 
-- Elixir: https://github.com/leeduckgo/super_issuer
-- Rust: https://github.com/SUIBE-Blockchain/WeDPR-Lab-Core-Web-Version
+- Elixir: https://github.com/WeLightProject/WeLight-Portal
+- Rust: https://github.com/leeduckgo/Rust-Study
 - Python: https://github.com/SUIBE-Blockchain/FISCO_BCOS_Toolbox
 - Blockchain: https://github.com/leeduckgo/bitcoin_elementary_course_based_on_jupyterlab
