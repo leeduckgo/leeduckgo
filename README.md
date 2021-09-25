@@ -20,13 +20,14 @@ Here are some ideas to get you started:
 Leeduckgo,cOoL-oriented Programming,working on blockchain and crypto.
 
 - 中心主页：https://github.com/SUIBE-Blockchain
-- 擅长语言：Elixir, Python, Rust
+- 微芒社区主页：https://github.com/WeLightProject
+- 擅长语言：web3.0 dApp, Elixir, Rust
 - 微信：197626581
 - 邮箱📮：leeduckgo@gmail.com
 
 Repos：
 
+- Web3.0 dApp: https://github.com/WeLightProject/Tai-Shang-NFT-Wallet
+- Bitcoin: https://github.com/leeduckgo/bitcoin_elementary_course_based_on_jupyterlab
 - Elixir: https://github.com/WeLightProject/WeLight-Portal
 - Rust: https://github.com/leeduckgo/Rust-Study
-- Python: https://github.com/SUIBE-Blockchain/FISCO_BCOS_Toolbox
-- Blockchain: https://github.com/leeduckgo/bitcoin_elementary_course_based_on_jupyterlab
