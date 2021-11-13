@@ -15,15 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-李大狗Leeduckgo，面向炫酷编程，区块链方向，上海对外经贸大学区块链技术与应用研究中心副主任。
+**LeeDuckGo** ,cOoL-oriented Programming,working on blockchain and crypto.
 
-Leeduckgo,cOoL-oriented Programming,working on blockchain and crypto.
-
-- 中心主页：https://github.com/SUIBE-Blockchain
-- 微芒社区主页：https://github.com/WeLightProject
-- 擅长语言：web3.0 dApp, Elixir, Rust
-- 微信：197626581
-- 邮箱📮：leeduckgo@gmail.com
+- NonceGeek：https://noncegeek.com
+- WeLightProject：https://github.com/WeLightProject
+- Dev Stacks: web3.0 dApp, Elixir, TypeScript(React), Rust
+- Wechat: 197626581
+- Email📮: leeduckgo@gmail.com
+- Dev Articles: https://twitter.com/Web3dAppCamp
 
 Repos：
 
