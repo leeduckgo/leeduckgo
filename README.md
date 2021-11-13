@@ -17,16 +17,18 @@ Here are some ideas to get you started:
 
 **LeeDuckGo** ,cOoL-oriented Programming,working on blockchain and crypto.
 
-- NonceGeek：https://noncegeek.com
-- WeLightProject：https://github.com/WeLightProject
-- Dev Stacks: web3.0 dApp, Elixir, TypeScript(React), Rust
-- Wechat: 197626581
-- Email📮: leeduckgo@gmail.com
-- Dev Articles: https://twitter.com/Web3dAppCamp
+- **NonceGeek:** https://noncegeek.com
+- **WeLightProject:** https://github.com/WeLightProject
+- **Dev Stacks:** web3.0 dApp, Elixir, TypeScript(React), Rust
+- **Wechat:** 197626581
+- **Email📮:** leeduckgo@gmail.com
+- **Dev Articles:** https://twitter.com/Web3dAppCamp
 
 Repos：
 
-- Web3.0 dApp: https://github.com/WeLightProject/Tai-Shang-NFT-Wallet
-- Bitcoin: https://github.com/leeduckgo/bitcoin_elementary_course_based_on_jupyterlab
-- Elixir: https://github.com/WeLightProject/WeLight-Portal
-- Rust: https://github.com/leeduckgo/Rust-Study
+- **Web3.0 dApp(React):** https://github.com/WeLightProject/Tai-Shang-NFT-Wallet
+- **Bitcoin:** https://github.com/leeduckgo/bitcoin_elementary_course_based_on_jupyterlab
+- **Elixir:** 
+  - https://github.com/WeLightProject/WeLight-Portal
+  - https://github.com/WeLightProject/function_server_based_on_arweave
+  - https://github.com/WeLightProject/tai-shang-nft-parser
