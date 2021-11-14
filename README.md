@@ -27,16 +27,28 @@ Here are some ideas to get you started:
 Repos：
 
 - **Web3.0 dApp(React):** https://github.com/WeLightProject/Tai-Shang-NFT-Wallet
+
   **Demo:** https://bewater.leeduckgo.com
+  
   **Description:**
+  
   TaiShang NFT Wallet is a web3 dApp based on scaffold-eth template which is running on Moonbeam or Ethereum,  including the following functions: mint nft, present nft, transfer nft, bind pns/ens domain to nft, interact with contract, the presentation of nft is need to connect to TaiShang NFT Renderer to parse and render.
 - **Elixir:** 
+
   - https://github.com/WeLightProject/WeLight-Portal
+  
   **Application:** https://weimang.cyberemd.com
-  **Description:** A Portal for Multi-Chain including Alliance Chain & Public-Chain
+  
+  **Description:** A Portal for Multi-Chain including Alliance Chain & Public-Chain.
+  
   - https://github.com/WeLightProject/function_server_based_on_arweave
+  
   **Description:** Function as a Service Based on Arweave.
+  
   - https://github.com/WeLightProject/tai-shang-nft-parser
+  
   **Demo:** https://taishang.leeduckgo.com
+  
   **Description:**
+  
   TaiShang NFT Parser is a application to parse and render NFTs in abstract paradigm, it's a basic service that can be using for "TaiShang NFT Wallet" and other Web3.0 dApps
