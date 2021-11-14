@@ -22,7 +22,14 @@ Here are some ideas to get you started:
 - **Dev Stacks:** web3.0 dApp, Elixir, TypeScript(React), Rust
 - **Wechat:** 197626581
 - **Email📮:** leeduckgo@gmail.com
-- **Dev Articles:** https://twitter.com/Web3dAppCamp
+
+Contents:
+
+- **Web3.0 Dev Articles:** https://twitter.com/Web3dAppCamp
+
+  **Description:**
+  
+  A series of lessons and A DAO to help global people to learn web3.0 dApp Development!
 
 Repos：
 
