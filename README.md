@@ -59,3 +59,11 @@ Repos：
     **Description:**
   
     TaiShang NFT Parser is a application to parse and render NFTs in abstract paradigm, it's a basic service that can be using for "TaiShang NFT Wallet" and other Web3.0 dApps
+    
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhenfeng-zhu&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhenfeng-zhu&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
