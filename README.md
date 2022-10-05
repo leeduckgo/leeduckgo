@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 **LeeDuckGo** ,cOoL-oriented Programming,working on blockchain and crypto.
 
 - **NonceGeek:** https://noncegeek.com
-- **WeLightProject:** https://github.com/WeLightProject
+- **Github of NonceGeekDAO:** https://github.com/NonceGeek
 - **Dev Stacks:** web3.0 dApp, Elixir, TypeScript(React), Rust
 - **Wechat:** 197626581
 - **Email📮:** leeduckgo@gmail.com
