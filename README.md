@@ -1,27 +1,49 @@
 ### 👋Leeduckgo👋
 
-<!--
-**leeduckgo/leeduckgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Description -->
 
-Here are some ideas to get you started:
+**LeeDuckGo** , NonceGeekDAO FoundercOoL-oriented Programming, working on blockchain and crypto.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- /Description -->
 
-**LeeDuckGo** ,cOoL-oriented Programming,working on blockchain and crypto.
+<!-- Important Links -->
 
 - **NonceGeek:** https://noncegeek.com
-- **Github of NonceGeekDAO:** https://github.com/NonceGeek
-- **Dev Stacks:** web3.0 dApp, Elixir, TypeScript(React), Rust
+- **Github Org for  NonceGeekDAO:** https://github.com/NonceGeek
+- **Dev Stacks:** Web3, Elixir, TypeScript(React), Rust, AI.
 - **Wechat:** 197626581
 - **Email📮:** leeduckgo@gmail.com
+- **Telegram:** @leeduckgo
+
+<!-- /Important Links -->
+
+<!-- Projects -->
+
+**web3_move_ex:**
+
+> https://github.com/NonceGeek/web3_move_ex
+
+MOVE(Aptos/Sui) sdk coding by elixir.
+
+Tags: `aptos`, `sui`, `elixir`, `web3`
+
+**MoveDID:**
+
+https://github.com/NonceGeek/MoveDID
+
+MoveDID is a DID protocol that is implemented Aptos.The vision of MoveDID is to be the foundation for the next generation of large-scale Web3 finance and Web3 society. MoveDID could be used for 3 types of subjects: human, organization, and bot. The implementation follows the did@w3c.
+
+Tags: `aptos`, `move`
+
+**tai_shang_micro_faas_system:**
+
+https://github.com/NonceGeek/tai_shang_micro_faas_system
+
+Web3 Function as a Service based on multi-blockchains!
+
+Tags: `elixir`, `faas`
+
+<!-- /Projects -->
 
 Contents:
 
