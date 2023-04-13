@@ -16,7 +16,7 @@
 - **Wechat:** 197626581
 - **Email📮:** leeduckgo@gmail.com
 - **Telegram:** @leeduckgo
-- **MY DID:** 0x00
+- **Move DID:** 0x00
 
 <!-- /Important Links -->
 
