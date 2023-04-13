@@ -2,7 +2,7 @@
 
 <!-- Description -->
 
-**LeeDuckGo** , NonceGeekDAO FoundercOoL-oriented Programming, working on blockchain and crypto.
+**LeeDuckGo** , NonceGeekDAO Founder, cOoL-oriented Programming, working on blockchain and crypto.
 
 <!-- /Description -->
 
