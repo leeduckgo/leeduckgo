@@ -84,7 +84,7 @@ Tags: `elixir`, `faas`
 
 <!-- DAOs -->
 
-[https://img.shields.io/badge/NonceGeekDAO-cool--oriented--programming-blue](https://github.com/NonceGeek)
+[![](https://img.shields.io/badge/NonceGeekDAO-cool--oriented--programming-blue)][(https://github.com/NonceGeek/MoveDID/blob/main/MoveDID-Audit-Report.pdf](https://github.com/NonceGeek))
 
 
 <!-- /DAOs -->
