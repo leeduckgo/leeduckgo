@@ -12,7 +12,7 @@
 - **Aptos Addr:** 0x2df41622c0c1baabaa73b2c24360d205e23e803959ebbcb0e5b80462165893ed
 - **NonceGeek:** https://noncegeek.com
 - **Github Org for  NonceGeekDAO:** https://github.com/NonceGeek
-- **Dev Stacks:** Web3, Elixir, TypeScript(React), Rust, AI.
+- **Dev Stacks:** `Web3`, `Elixir`, `TypeScript(React)`, `Rust`, `AI`.
 - **Wechat:** 197626581
 - **Email📮:** leeduckgo@gmail.com
 - **Telegram:** @leeduckgo
