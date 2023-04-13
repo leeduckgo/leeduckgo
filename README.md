@@ -80,9 +80,18 @@ Tags: `elixir`, `faas`
 
 <!-- /Economic Behaviors -->
 
+## 0x06 DAOs joined in
+
+<!-- DAOs -->
+
+![https://img.shields.io/badge/NonceGeekDAO-cool--oriented--programming-blue](https://github.com/NonceGeek)
+
+
+<!-- /DAOs -->
+
 <!-- Prove -->
 
-## 0x06 The Prove of learning & working!
+## 0x07 The Prove of learning & working!
 
 <!-- /Prove -->
 
