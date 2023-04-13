@@ -8,6 +8,8 @@
 
 <!-- Important Links -->
 
+- **Ethereum Addr:** 0x73c7448760517E3E6e416b2c130E3c6dB2026A1d
+- **Aptos Addr:** 0x2df41622c0c1baabaa73b2c24360d205e23e803959ebbcb0e5b80462165893ed
 - **NonceGeek:** https://noncegeek.com
 - **Github Org for  NonceGeekDAO:** https://github.com/NonceGeek
 - **Dev Stacks:** Web3, Elixir, TypeScript(React), Rust, AI.
