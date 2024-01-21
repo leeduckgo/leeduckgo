@@ -2,7 +2,9 @@
 
 <!-- Description -->
 
-**LeeDuckGo** , NonceGeekDAO Founder, cOoL-oriented Programming, working on blockchain and crypto.
+**LeeDuckGo** : https://leeduckgo.com
+
+NonceGeekDAO Founder, MoveSpace Founder, cOoL-oriented Programming, working on blockchain and crypto.
 
 <!-- /Description -->
 
