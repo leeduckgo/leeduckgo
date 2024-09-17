@@ -4,7 +4,7 @@
 
 **LeeDuckGo** : https://leeduckgo.com
 
-NonceGeekDAO Founder, MoveSpace Founder, cOoL-oriented Programming, working on blockchain and crypto.
+Indiehacker, NonceGeekDAO Founder, cOoL-oriented Programming, working on blockchain and crypto.
 
 <!-- /Description -->
 
@@ -12,6 +12,7 @@ NonceGeekDAO Founder, MoveSpace Founder, cOoL-oriented Programming, working on b
 
 - **Ethereum Addr:** 0x73c7448760517E3E6e416b2c130E3c6dB2026A1d
 - **Aptos Addr:** 0x2df41622c0c1baabaa73b2c24360d205e23e803959ebbcb0e5b80462165893ed
+- **Projects:** https://projects.noncegeek.com
 - **NonceGeek:** https://noncegeek.com
 - **Github Org for  NonceGeekDAO:** https://github.com/NonceGeek
 - **Dev Stacks:** `Web3`, `Elixir`, `TypeScript(React)`, `Rust`, `AI`.
@@ -23,40 +24,6 @@ NonceGeekDAO Founder, MoveSpace Founder, cOoL-oriented Programming, working on b
 <!-- /Important Links -->
 
 <!-- Projects -->
-
-## 0x00 Top5 Projects Contributed
-
-**1. movespacedb:**
-
->
-> https://github.com/NonceGeek/movespace_db
-Vector Dataset based on Web3.
-
-Tags: `AI`, `elixir`, `web3`
-
-**2. web3_move_ex:**
-
-> https://github.com/NonceGeek/web3_move_ex
-
-MOVE SDK coding by elixir.
-
-Tags: `aptos`, `elixir`, `web3`
-
-**3. MoveDID:**
-
-https://github.com/NonceGeek/MoveDID
-
-MoveDID is a DID protocol that is implemented Aptos.The vision of MoveDID is to be the foundation for the next generation of large-scale Web3 finance and Web3 society. MoveDID could be used for 3 types of subjects: human, organization, and bot. The implementation follows the did@w3c.
-
-Tags: `aptos`, `move`
-
-**4. tai_shang_micro_faas_system:**
-
-https://github.com/NonceGeek/tai_shang_micro_faas_system
-
-Web3 Function as a Service based on multi-blockchains!
-
-Tags: `elixir`, `faas`
 
 <!-- /Projects -->
 
