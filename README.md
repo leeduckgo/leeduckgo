@@ -4,7 +4,7 @@
 
 **LeeDuckGo** : https://leeduckgo.com
 
-Indiehacker, NonceGeekDAO Founder, cOoL-oriented Programming, working on blockchain and crypto.
+Indiehacker, NonceGeekDAO Founder, BeWater Core Dev, cOoL-oriented Programming, working on blockchain and crypto.
 
 <!-- /Description -->
 
@@ -19,7 +19,6 @@ Indiehacker, NonceGeekDAO Founder, cOoL-oriented Programming, working on blockch
 - **Wechat:** 197626581
 - **Email📮:** leeduckgo@gmail.com
 - **Telegram:** @leeduckgo
-- **Move DID:** 0x00
 
 <!-- /Important Links -->
 
