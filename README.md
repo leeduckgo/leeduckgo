@@ -43,6 +43,16 @@ Indiehacker, NonceGeekDAO Founder, BeWater Core Dev, cOoL-oriented Programming, 
 
 <!-- /Hackathons -->
 
+<!-- Accelerator -->
+
+## Accelerator
+
+* 2024 - SprignX R2 - Aptoscraft
+* 2023 - SpringX R1 - dataI AI Kit
+
+
+<!-- /Accelerator -->
+
 <!-- Grants -->
 
 ## Grants
