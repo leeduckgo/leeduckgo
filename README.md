@@ -49,6 +49,7 @@ Indiehacker, NonceGeekDAO Founder, BeWater Core Dev, cOoL-oriented Programming, 
 
 * Grant from Hashkey for On-chain-game Map Editor
 * Grant from Aptos for [MoveDID](https://github.com/movedid)
+* Grant from Arweave for [arweave-based GPT Bot](https://arweave.noncegeek.com)
 
 <!-- /Grants -->
 
