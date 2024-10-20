@@ -32,7 +32,7 @@ Indiehacker, NonceGeekDAO Founder, BeWater Core Dev, cOoL-oriented Programming, 
 * 2024 - Aptos Micro Grant R4 - Scaffold-APT & Scaffold-APT-Examples
 * 2024 - Aptos Micro Grant R3 - Scaffold-Aptos-based-on-AI
 * 2024 - Aptos Micro Grant R2 - Move-Airdropper-Based-On-Github
-* 2024 - Aptos Micro Grant R1 - MoveDID
+* 2023 - Aptos Micro Grant R1 - MoveDID
 * 2023 - BeWater Hackathon Safty Track - Move E2E Test Tool
 * 2023 - Sui HK BuilderHouse 2nd - web3_mud_ex
 * 2022 - Thuba DAO Infra 1st - TaiShangMicroFaaS
