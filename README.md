@@ -24,6 +24,8 @@ Indiehacker, NonceGeekDAO Founder, BeWater Core Dev, cOoL-oriented Programming, 
 
 <!-- Hackathons -->
 
+##  Hackathons
+
 * 2024 - ShangHai Bethink Hackathon - Buidler Analyzer & Community Verifier
 * 2024 - ShenZhen ETH Hackathon - Bodhi-based GPT Bot
 * 2024 - Arweave Game Jam - dimensionLife
