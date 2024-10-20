@@ -36,6 +36,7 @@ Indiehacker, NonceGeekDAO Founder, BeWater Core Dev, cOoL-oriented Programming, 
 * 2023 - BeWater Hackathon Safty Track - Move E2E Test Tool
 * 2023 - Sui HK BuilderHouse 2nd - web3_mud_ex
 * 2022 - Thuba DAO Infra 1st - TaiShangMicroFaaS
+* 2022 - 万向黑客松 Protocol Labs Bounty Track - SoulCard
 * 2021 - 万向黑客松二等奖 - On-Chain Game Map Editor
 * 2021 - Polkadot 黑客松二等奖 - TaiShang NFT Parser
 * 2021 - 第五届中国区块链开发大赛二等奖 - WeLightOS
