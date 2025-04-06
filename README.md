@@ -26,6 +26,7 @@ Indiehacker, NonceGeekDAO Founder, BeWater Core Dev, cOoL-oriented Programming, 
 
 ##  Hackathons
 
+* 2025 - Movement Mainia Hackathong 2nd - [Tai Shang Micro AI SaaS System](https://github.com/NonceGeek/tai-shang-micro-ai-saas)
 * 2024 - ShangHai Bethink Hackathon - Buidler Analyzer & Community Verifier
 * 2024 - ShenZhen ETH Hackathon - Bodhi-based GPT Bot
 * 2024 - Arweave Game Jam - dimensionLife
